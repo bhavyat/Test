@@ -1,0 +1,4 @@
+<resources>
+    <string name="test_text">Test</string>
+    <string name="clear_text">Clear</string>
+</resources>
